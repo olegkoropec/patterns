@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e0b1c46-ddf8-463f-9822-d897fbfec449" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/StudentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/UniversityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/BridgeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/DrawApiImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/DrawApiImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/DrawingAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bridge/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chanOfResp/BaseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chanOfResp/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chanOfResp/SecurtyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chanOfResp/ValidationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/Beer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/BeerOpen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/CommandExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/CommandMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/FridayRelax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/command/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/DecoratorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/MilkDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/SugarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decorator/WithoutLactoseMilkDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/facade/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/facade/FacadeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/facade/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/facade/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/facade/Wifi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/MediatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/Mentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/SlackMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methodTemplate/Auhentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methodTemplate/MethodTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methodTemplate/MethodTemplateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/ObserverController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/ObserverMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Telegram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/ProxyDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/ProxyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/WordDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/OfflineMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/OnlineMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/StateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/ApplePayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/BinancePayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/StrategyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/SenderVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/TelegramSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/VisitorMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2kc4XmEK1b9og8NH0Z1L8Ift52n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/eddll/IdeaProjects/patterns/src/main/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eddll\IdeaProjects\patterns\src\main\java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e0b1c46-ddf8-463f-9822-d897fbfec449" name="Changes" comment="" />
+      <created>1723569575207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723569575207</updated>
+    </task>
+    <servers />
+  </component>
+</project>
